@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/card-productivity/static/css/main.1d4da131.css",
-    "main.js": "/card-productivity/static/js/main.9852b5c7.js",
-    "static/media/card2.png": "/card-productivity/static/media/card2.873ec0104d9294179157.png",
-    "static/media/card3.png": "/card-productivity/static/media/card3.ad38dd1ea857c560695c.png",
-    "static/media/pack1.png": "/card-productivity/static/media/pack1.b5239dcbaa7bce254914.png",
-    "static/media/bg1.png": "/card-productivity/static/media/bg1.f9fa0746f71ea69cbc99.png",
-    "static/media/headphone.png": "/card-productivity/static/media/headphone.b12950d4854e0a6d2d42.png",
-    "static/media/pack.png": "/card-productivity/static/media/pack.b5df1a0f17023c1dc593.png",
+    "main.css": "/card-productivity/static/css/main.690ebb1c.css",
+    "main.js": "/card-productivity/static/js/main.49947f20.js",
+    "static/media/water.png": "/card-productivity/static/media/water.2d1438cefb6ac4a102a8.png",
+    "static/media/card2.png": "/card-productivity/static/media/card2.ad38dd1ea857c560695c.png",
+    "static/media/bg.png": "/card-productivity/static/media/bg.4fd93f937aeb67d04d58.png",
     "static/media/airpods.png": "/card-productivity/static/media/airpods.695582fd61b2c6094bd3.png",
     "static/media/pillow.png": "/card-productivity/static/media/pillow.d134664645f05d03854c.png",
     "static/media/headphones.png": "/card-productivity/static/media/headphones.bd8ed9d487abfa6f4b3b.png",
     "static/media/shirt.png": "/card-productivity/static/media/shirt.26ddc1e7d174331c74b6.png",
     "static/media/computer.png": "/card-productivity/static/media/computer.3252a971f73fef9f7b73.png",
     "static/media/card1.png": "/card-productivity/static/media/card1.a977e3ee7bedbe01786c.png",
-    "static/media/headphony.jpg": "/card-productivity/static/media/headphony.d2f0622aa14bfc844469.jpg",
     "index.html": "/card-productivity/index.html",
-    "main.1d4da131.css.map": "/card-productivity/static/css/main.1d4da131.css.map",
-    "main.9852b5c7.js.map": "/card-productivity/static/js/main.9852b5c7.js.map"
+    "main.690ebb1c.css.map": "/card-productivity/static/css/main.690ebb1c.css.map",
+    "main.49947f20.js.map": "/card-productivity/static/js/main.49947f20.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d4da131.css",
-    "static/js/main.9852b5c7.js"
+    "static/css/main.690ebb1c.css",
+    "static/js/main.49947f20.js"
   ]
 }
