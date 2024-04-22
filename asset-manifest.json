@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/card-productivity/static/css/main.cbebb217.css",
-    "main.js": "/card-productivity/static/js/main.4ed80257.js",
+    "main.css": "/card-productivity/static/css/main.c188168f.css",
+    "main.js": "/card-productivity/static/js/main.e51e165b.js",
+    "static/media/bg.png": "/card-productivity/static/media/bg.1f3f6d51d6894a6ff734.png",
     "static/media/airpods.png": "/card-productivity/static/media/airpods.695582fd61b2c6094bd3.png",
     "static/media/pillow.png": "/card-productivity/static/media/pillow.d134664645f05d03854c.png",
     "static/media/shirt.png": "/card-productivity/static/media/shirt.26ddc1e7d174331c74b6.png",
     "static/media/computer.png": "/card-productivity/static/media/computer.3252a971f73fef9f7b73.png",
     "static/media/card1.png": "/card-productivity/static/media/card1.a977e3ee7bedbe01786c.png",
     "index.html": "/card-productivity/index.html",
-    "main.cbebb217.css.map": "/card-productivity/static/css/main.cbebb217.css.map",
-    "main.4ed80257.js.map": "/card-productivity/static/js/main.4ed80257.js.map"
+    "main.c188168f.css.map": "/card-productivity/static/css/main.c188168f.css.map",
+    "main.e51e165b.js.map": "/card-productivity/static/js/main.e51e165b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbebb217.css",
-    "static/js/main.4ed80257.js"
+    "static/css/main.c188168f.css",
+    "static/js/main.e51e165b.js"
   ]
 }
