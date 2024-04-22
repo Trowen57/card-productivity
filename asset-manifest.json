@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/card-productivity/static/css/main.c188168f.css",
-    "main.js": "/card-productivity/static/js/main.e51e165b.js",
-    "static/media/bg.png": "/card-productivity/static/media/bg.1f3f6d51d6894a6ff734.png",
+    "main.css": "/card-productivity/static/css/main.ca77cdf9.css",
+    "main.js": "/card-productivity/static/js/main.78bd1ebb.js",
+    "static/media/headphone.png": "/card-productivity/static/media/headphone.b12950d4854e0a6d2d42.png",
+    "static/media/pack.png": "/card-productivity/static/media/pack.b5df1a0f17023c1dc593.png",
     "static/media/airpods.png": "/card-productivity/static/media/airpods.695582fd61b2c6094bd3.png",
     "static/media/pillow.png": "/card-productivity/static/media/pillow.d134664645f05d03854c.png",
+    "static/media/headphones.png": "/card-productivity/static/media/headphones.bd8ed9d487abfa6f4b3b.png",
     "static/media/shirt.png": "/card-productivity/static/media/shirt.26ddc1e7d174331c74b6.png",
     "static/media/computer.png": "/card-productivity/static/media/computer.3252a971f73fef9f7b73.png",
     "static/media/card1.png": "/card-productivity/static/media/card1.a977e3ee7bedbe01786c.png",
+    "static/media/headphony.jpg": "/card-productivity/static/media/headphony.d2f0622aa14bfc844469.jpg",
     "index.html": "/card-productivity/index.html",
-    "main.c188168f.css.map": "/card-productivity/static/css/main.c188168f.css.map",
-    "main.e51e165b.js.map": "/card-productivity/static/js/main.e51e165b.js.map"
+    "main.ca77cdf9.css.map": "/card-productivity/static/css/main.ca77cdf9.css.map",
+    "main.78bd1ebb.js.map": "/card-productivity/static/js/main.78bd1ebb.js.map"
   },
   "entrypoints": [
-    "static/css/main.c188168f.css",
-    "static/js/main.e51e165b.js"
+    "static/css/main.ca77cdf9.css",
+    "static/js/main.78bd1ebb.js"
   ]
 }
