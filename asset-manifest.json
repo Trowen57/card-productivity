@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/card-productivity/static/css/main.3f22b008.css",
-    "main.js": "/card-productivity/static/js/main.aafb2b77.js",
+    "main.js": "/card-productivity/static/js/main.e3ccf0b9.js",
     "static/media/main-bg.png": "/card-productivity/static/media/main-bg.4fd93f937aeb67d04d58.png",
     "static/media/bg3.png": "/card-productivity/static/media/bg3.f6ad366ed3e41f0de73f.png",
+    "static/media/burrito.png": "/card-productivity/static/media/burrito.4237f4404c0f9b08b4cd.png",
     "static/media/metal-bg.png": "/card-productivity/static/media/metal-bg.f3d71f36225f4e871ff8.png",
+    "static/media/vacation.png": "/card-productivity/static/media/vacation.706933da63577690dd5c.png",
     "static/media/water.png": "/card-productivity/static/media/water.115ed42753c094e22999.png",
     "static/media/airpods.png": "/card-productivity/static/media/airpods.695582fd61b2c6094bd3.png",
     "static/media/pillow.png": "/card-productivity/static/media/pillow.d134664645f05d03854c.png",
@@ -13,17 +15,28 @@
     "static/media/headphones.png": "/card-productivity/static/media/headphones.7617cf4f7a3947219104.png",
     "static/media/computer.png": "/card-productivity/static/media/computer.3252a971f73fef9f7b73.png",
     "static/media/pack1.png": "/card-productivity/static/media/pack1.a977e3ee7bedbe01786c.png",
+    "static/media/computer2.png": "/card-productivity/static/media/computer2.235e15e985a75bd4de84.png",
+    "static/media/board.jpg": "/card-productivity/static/media/board.7d13e57016cfcabef73a.jpg",
+    "static/media/thermometer.jpg": "/card-productivity/static/media/thermometer.aa5b37f9ad843540828e.jpg",
+    "static/media/farmers.jpg": "/card-productivity/static/media/farmers.1843a3217530089ba9a5.jpg",
+    "static/media/pan.jpg": "/card-productivity/static/media/pan.77ad9a10f1507dee6f67.jpg",
+    "static/media/carbon.jpg": "/card-productivity/static/media/carbon.7e80803707e2cb48d7fd.jpg",
+    "static/media/card-back4.jpg": "/card-productivity/static/media/card-back4.c1e0dd1ba174d4cc4ae2.jpg",
     "static/media/card-back1.jpg": "/card-productivity/static/media/card-back1.41114c2de3b03299f291.jpg",
     "static/media/card-back2.jpg": "/card-productivity/static/media/card-back2.9dc8fd9cd0babf272119.jpg",
     "static/media/img4.jpg": "/card-productivity/static/media/img4.9dc8fd9cd0babf272119.jpg",
+    "static/media/hearthstone.jpg": "/card-productivity/static/media/hearthstone.9fff96229e02b75b5c4d.jpg",
+    "static/media/keyboard.jpg": "/card-productivity/static/media/keyboard.d46bb84bb2df6a942ea1.jpg",
+    "static/media/tatami.jpg": "/card-productivity/static/media/tatami.1bfbe1726a25069b3c9f.jpg",
+    "static/media/paddle.jpg": "/card-productivity/static/media/paddle.e681f6cdbdaa6ef222ac.jpg",
     "static/media/card-back3.jpg": "/card-productivity/static/media/card-back3.345f23e25d841ba45d1e.jpg",
     "static/media/img5.jpg": "/card-productivity/static/media/img5.345f23e25d841ba45d1e.jpg",
     "index.html": "/card-productivity/index.html",
     "main.3f22b008.css.map": "/card-productivity/static/css/main.3f22b008.css.map",
-    "main.aafb2b77.js.map": "/card-productivity/static/js/main.aafb2b77.js.map"
+    "main.e3ccf0b9.js.map": "/card-productivity/static/js/main.e3ccf0b9.js.map"
   },
   "entrypoints": [
     "static/css/main.3f22b008.css",
-    "static/js/main.aafb2b77.js"
+    "static/js/main.e3ccf0b9.js"
   ]
 }
